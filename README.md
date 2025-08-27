@@ -51,4 +51,25 @@ Wireframes can be categorized into two main types: **Low-Fidelity (Lo-Fi)** and 
 - **When Used:** Later in the design process to validate usability, share with stakeholders, and guide developers.
 - **Example:** A digital mockup showing a homepage with accurate placement of images, buttons, and text blocks.
 
+- ## Wireframing Tools
+
+There are several tools available for creating wireframes, ranging from simple sketching apps to powerful collaborative design platforms. Some popular tools include:
+
+- **Balsamiq:** Great for quick, low-fidelity wireframes with a sketch-like feel.
+- **Sketch:** Popular among Mac users for designing interfaces and creating high-fidelity wireframes.
+- **Adobe XD:** Offers design and prototyping features for both low- and high-fidelity wireframes.
+- **Figma:** A cloud-based, collaborative design tool that works on any platform.
+
+### Why Figma is Recommended
+Figma is a top choice for wireframing because:
+
+- **Cloud-based & Collaborative:** Multiple team members can work on the same design in real-time.
+- **Cross-Platform:** Works on Windows, Mac, Linux, and even in the browser.
+- **Design and Prototype:** Allows you to create wireframes, turn them into clickable prototypes, and test usability.
+- **Components & Libraries:** Lets you reuse elements across multiple projects, saving time.
+- **Community Resources:** Access to pre-made UI kits, templates, and plugins to speed up design.
+
+> **Tip:** Using Figma for wireframing helps teams visualize ideas, communicate effectively, and identify usability issues before development begins.
+
+
 
